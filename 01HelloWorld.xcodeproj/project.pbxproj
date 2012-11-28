@@ -22,13 +22,13 @@
 		0DC756071666547200CDD412 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		0DC756091666547200CDD412 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0DC7560B1666547200CDD412 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		0DC7560F1666547200CDD412 /* 01HelloWorld-Info.plist */ = {isa = PBXFileReference; path = "01HelloWorld-Info.plist"; sourceTree = "<group>"; };
+		0DC7560F1666547200CDD412 /* 01HelloWorld-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "01HelloWorld-Info.plist"; sourceTree = "<group>"; };
 		0DC756111666547200CDD412 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0DC756131666547200CDD412 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0DC756151666547200CDD412 /* 01HelloWorld-Prefix.pch */ = {isa = PBXFileReference; path = "01HelloWorld-Prefix.pch"; sourceTree = "<group>"; };
-		0DC756161666547200CDD412 /* CMPAppDelegate.h */ = {isa = PBXFileReference; path = CMPAppDelegate.h; sourceTree = "<group>"; };
+		0DC756151666547200CDD412 /* 01HelloWorld-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "01HelloWorld-Prefix.pch"; sourceTree = "<group>"; };
+		0DC756161666547200CDD412 /* CMPAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CMPAppDelegate.h; sourceTree = "<group>"; };
 		0DC756171666547200CDD412 /* CMPAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CMPAppDelegate.m; sourceTree = "<group>"; };
-		0DC756191666547200CDD412 /* CMPViewController.h */ = {isa = PBXFileReference; path = CMPViewController.h; sourceTree = "<group>"; };
+		0DC756191666547200CDD412 /* CMPViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CMPViewController.h; sourceTree = "<group>"; };
 		0DC7561A1666547200CDD412 /* CMPViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CMPViewController.m; sourceTree = "<group>"; };
 		0DC7561D1666547200CDD412 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/CMPViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
