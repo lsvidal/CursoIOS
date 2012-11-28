@@ -14,6 +14,13 @@
 
 @implementation CMPViewController
 
+@synthesize meuLabel, meuCampoTexto;
+
+- (IBAction)atualizaLabel:(id)sender {
+
+    [meuLabel setText:[meuCampoTexto text]];
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];

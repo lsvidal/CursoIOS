@@ -10,4 +10,10 @@
 
 @interface CMPViewController : UIViewController
 
+@property(nonatomic, weak) IBOutlet UILabel *meuLabel;
+
+@property(nonatomic, weak) IBOutlet UITextField *meuCampoTexto;
+
+- (IBAction)atualizaLabel:(id)sender;
+
 @end
